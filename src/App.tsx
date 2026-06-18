@@ -347,12 +347,6 @@ function App() {
             <div className="footer-logo">
               <img src="/Image-box/Main-Logo-2.png" alt="Ricoh International Logo" />
             </div>
-            <div className="footer-links">
-              <a href="#assets">Our Assets</a>
-              <a href="#invest">Invest Now</a>
-              <a href="#">Privacy Policy</a>
-              <a href="#">Terms</a>
-            </div>
           </div>
           <div className="footer-bottom">
             <p>&copy; 2024 Ricoh International. All rights reserved. | This page is for accredited investors only. Investment involves risk. Ricoh International is distinct from Ricoh Central. Please consult a licensed financial advisor.</p>
